@@ -163,7 +163,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 3.5536723, y: 3.4858756}
+    oldSize: {x: 4.0970454, y: 3.9435027}
     newSize: {x: 3.7, y: 3.6294117}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -410,7 +410,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 0.8591954, y: 1}
+    m_SensorSize: {x: 0.8606322, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2034,7 +2034,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 14
+      m_TileSpriteIndex: 17
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2934,7 +2934,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 13
+      m_TileSpriteIndex: 16
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2991,16 +2991,16 @@ Tilemap:
     m_Data: {fileID: 21300000, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
   - m_RefCount: 4
     m_Data: {fileID: 21300006, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 8
+    m_Data: {fileID: 21300024, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300012, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300070, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
-  - m_RefCount: 8
-    m_Data: {fileID: 21300024, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 21300088, guid: e19831432e91f7946ba7f21ae7a77aa6, type: 3}
   - m_RefCount: 1

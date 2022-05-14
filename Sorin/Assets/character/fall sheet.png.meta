@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 031daa17ad4615240a5c260ffb9a7432
+guid: e5948e8e49e96ff4ba5d6cf57e579383
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 177
+  spritePixelsToUnits: 24.34
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fall-0001-Sheet_0
+      name: fall sheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 852
-        width: 754
-        height: 840
+        y: 95
+        width: 90
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc1c16dca1f28e24986f4127537a5e1a
-      internalID: 1830187497
+      spriteID: 6b980149e9f51b34a83e6e602bdf58d4
+      internalID: -1747580144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fall-0001-Sheet_1
+      name: fall sheet_1
       rect:
         serializedVersion: 2
-        x: 754
-        y: 852
-        width: 754
-        height: 840
+        x: 90
+        y: 95
+        width: 90
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f4bceb7c4d360f4e902aaf1c0fe3955
-      internalID: 1388536907
+      spriteID: 0ed258948cb14004bb6f6dcc35ef6aba
+      internalID: 189522500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fall-0001-Sheet_2
+      name: fall sheet_2
       rect:
         serializedVersion: 2
-        x: 1508
-        y: 852
-        width: 754
-        height: 840
+        x: 180
+        y: 95
+        width: 90
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 878107850607d3a4bb6ed291dcebe2db
-      internalID: 778483722
+      spriteID: e4509284ab12a884da495eed43a63146
+      internalID: -1365672439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fall-0001-Sheet_3
+      name: fall sheet_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 12
-        width: 754
-        height: 840
+        y: 2
+        width: 90
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61608f51f76daf44a96e11b44de9e58a
-      internalID: -409901089
+      spriteID: ca6a38850b511834ba97790709ba080f
+      internalID: -1568217893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall sheet_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 90
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a835f45d490cd40b24ae7823845c30
+      internalID: 945283020
       vertices: []
       indices: 
       edges: []
@@ -198,10 +219,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fall-0001-Sheet_0: 1830187497
-      fall-0001-Sheet_2: 778483722
-      fall-0001-Sheet_3: -409901089
-      fall-0001-Sheet_1: 1388536907
+      fall sheet_2: -1365672439
+      fall sheet_3: -1568217893
+      fall sheet_0: -1747580144
+      fall sheet_4: 945283020
+      fall sheet_1: 189522500
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
