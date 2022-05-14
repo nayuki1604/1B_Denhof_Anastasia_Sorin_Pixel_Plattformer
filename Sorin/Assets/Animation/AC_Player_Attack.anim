@@ -47,9 +47,9 @@ AnimationClip:
       value: {fileID: -1511045666, guid: 6d76da90c927c124c80b644f2252c9bd, type: 3}
     - time: 1.0833334
       value: {fileID: -829646773, guid: 6d76da90c927c124c80b644f2252c9bd, type: 3}
-    - time: 1.1833333
+    - time: 1.1666666
       value: {fileID: -765462727, guid: 6d76da90c927c124c80b644f2252c9bd, type: 3}
-    - time: 1.2666667
+    - time: 1.25
       value: {fileID: 1823085337, guid: 6d76da90c927c124c80b644f2252c9bd, type: 3}
     - time: 1.3333334
       value: {fileID: 1216696191, guid: 6d76da90c927c124c80b644f2252c9bd, type: 3}
@@ -115,8 +115,8 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 1.35
-    functionName: OnDestroy
-    data: 
+    functionName: TriggerAnimationEvent
+    data: AttackingStop
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
