@@ -6,6 +6,8 @@ TagManager:
   tags:
   - GameManager
   - Game Manager
+  - Player Start
+  - Instantkill
   layers:
   - Default
   - TransparentFX
