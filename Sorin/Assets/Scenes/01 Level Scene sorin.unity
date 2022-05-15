@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 170246299}
   m_Layer: 0
   m_Name: Sorin player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -567,7 +567,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 0.5383481, y: 1}
+    m_SensorSize: {x: 0.9369369, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
