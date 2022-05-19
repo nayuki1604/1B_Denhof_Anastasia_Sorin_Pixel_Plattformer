@@ -8,6 +8,7 @@ TagManager:
   - Game Manager
   - Player Start
   - Instantkill
+  - Camera Target
   layers:
   - Default
   - TransparentFX
