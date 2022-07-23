@@ -11,6 +11,7 @@ TagManager:
   - Camera Target
   - enemy
   - Walkable
+  - enemykill
   layers:
   - Default
   - TransparentFX
