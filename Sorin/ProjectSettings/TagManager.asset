@@ -12,6 +12,7 @@ TagManager:
   - enemy
   - Walkable
   - enemykill
+  - Talk
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - UI
   - Walkable
   - enemy
-  - 
+  - Talk
   - 
   - 
   - 
