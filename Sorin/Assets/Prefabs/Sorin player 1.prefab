@@ -157,7 +157,7 @@ GameObject:
   - component: {fileID: 3799700014137899962}
   - component: {fileID: 3799700014137899956}
   - component: {fileID: 3799700014137899957}
-  - component: {fileID: -156657111455689182}
+  - component: {fileID: -4269429407743548720}
   m_Layer: 0
   m_Name: Sorin player 1
   m_TagString: Player
@@ -256,11 +256,12 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Camera
       Target","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CameraOffset","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"JumpSound","value":null,"typeHandle":{"Identification":"UnityEngine.AudioSource,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"JumpSound","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioClip,
       UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 3799700014137899956}
     - {fileID: 3044989004624175562}
+    - {fileID: 8300000, guid: 65e71e176f1a04046a9a440302f42d50, type: 3}
 --- !u!114 &3799700014137899960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -374,7 +375,7 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!82 &-156657111455689182
+--- !u!82 &-4269429407743548720
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -392,7 +393,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 140
+  Priority: 128
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
