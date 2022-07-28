@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4f9f98861dbe194581a21f0767680ab
+guid: 043af4676c9dc47408bee460b4160659
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,148 +104,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: intro scene 2-Sheet_0
+      name: handst_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fecd48111eb0a04a96c2be1fae1ddb9
-      internalID: 1264809710
+      spriteID: 9d97c0aeefbd5c1478087f38799f4455
+      internalID: -1914231985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: intro scene 2-Sheet_1
+      name: handst_1
       rect:
         serializedVersion: 2
-        x: 1658
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 160
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f933cde8ff3915f4aad9f92b0c4714c9
-      internalID: -2026254562
+      spriteID: c877821b636622640a5bd8ab79b7b28a
+      internalID: -773348339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: intro scene 2-Sheet_2
+      name: handst_2
       rect:
         serializedVersion: 2
-        x: 3316
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 320
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 964d810fe2d9c124c9bb1ea323a57a89
-      internalID: -1846757899
+      spriteID: 32d4abf6b423fa34fb0b9772e70163a6
+      internalID: 1229305145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: intro scene 2-Sheet_3
+      name: handst_3
       rect:
         serializedVersion: 2
-        x: 4974
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 480
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e3e9313e50e76749ae8fb6027b22310
-      internalID: -804241068
+      spriteID: e124285bf09f44c48bfdf9a62417b846
+      internalID: -1833647445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: intro scene 2-Sheet_4
+      name: handst_4
       rect:
         serializedVersion: 2
-        x: 6632
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 640
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bbbefe5060e0204ab6177220d65401e
-      internalID: -1369404361
+      spriteID: 836849a08307af446aefe9ab0dd9fc1d
+      internalID: -1258471970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: intro scene 2-Sheet_5
+      name: handst_5
       rect:
         serializedVersion: 2
-        x: 8290
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 800
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f49d7c01524ad3745838cf3808df261f
-      internalID: -1339240721
+      spriteID: c4849b90a2c11ef4d8755a1b9f54399c
+      internalID: -323423186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: intro scene 2-Sheet_6
+      name: handst_6
       rect:
         serializedVersion: 2
-        x: 9948
-        y: 0
-        width: 1658
-        height: 1771
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 960
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e22efacaefe8254c9611aa6b45250c4
-      internalID: 1454831184
+      spriteID: cf85cecffd79de74c9da50cfc13427dc
+      internalID: -1941570445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handst_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f04f697ee3884cb64bd06d7bdafdd
+      internalID: -1320046638
       vertices: []
       indices: 
       edges: []
@@ -261,13 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      intro scene 2-Sheet_5: -1339240721
-      intro scene 2-Sheet_6: 1454831184
-      intro scene 2-Sheet_2: -1846757899
-      intro scene 2-Sheet_4: -1369404361
-      intro scene 2-Sheet_1: -2026254562
-      intro scene 2-Sheet_3: -804241068
-      intro scene 2-Sheet_0: 1264809710
+      handst_5: -323423186
+      handst_7: -1320046638
+      handst_4: -1258471970
+      handst_3: -1833647445
+      handst_2: 1229305145
+      handst_6: -1941570445
+      handst_0: -1914231985
+      handst_1: -773348339
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
